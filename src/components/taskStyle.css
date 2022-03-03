@@ -1,0 +1,26 @@
+.component{
+    text-align: center;
+    margin:20px;
+    height: 700px;
+    width: 700px;
+}
+.photoCard{
+   min-height: 100px;
+    margin: 10px;
+}
+.basketButton{
+    background-color: rgb(167, 167, 226);
+    height: 60px;
+    width: 120px;
+    margin: 0px;
+    text-align: center;
+}
+.displayFlex{
+    display: inline-flex;
+}
+.basket-with-current-tag{
+   max-height:200px;
+   width:auto;
+   background-color: lightblue;
+   border: darkslategrey;
+}
